@@ -1,0 +1,2 @@
+The original data for "Comment on 'An Alternative Explanation for Ions Put Forth as Evidence for Abundant Hydroxyl Radicals Formed Due to the Intrinsic Electric Field at the Surface of Water Droplets'".
+In this comment, Figure 1 is based on scans #38-42 of “nESI_caffeine_10uM.raw” and Figure 2 is based on scans #340-347 of “nESI_MS2_212.09.raw”.
